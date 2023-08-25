@@ -4,7 +4,7 @@
 Sysmon </br>
 python==3.11.4,3.9,3.8 </br>
 evtx </br>
-python-evtx </br>
+
 
 #Installation instructions </br>
 
